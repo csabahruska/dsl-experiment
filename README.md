@@ -25,7 +25,7 @@ i.e. run `test` of `MilnerMycroft`
 ```
 stack ghci MilnerMycroft.hs
 
-[1 of 1] Compiling MilnerMycroft    ( /home/csaba/haskell/dsl-experiment/MilnerMycroft.hs, interpreted )
+[1 of 1] Compiling MilnerMycroft
 Ok, modules loaded: MilnerMycroft.
 *MilnerMycroft> test
 
@@ -37,8 +37,8 @@ try `Compositional` with parser:
 ```
 stack ghci ParseTrifecta.hs
 
-[1 of 2] Compiling Compositional    ( /home/csaba/haskell/dsl-experiment/Compositional.hs, interpreted )
-[2 of 2] Compiling ParseTrifecta    ( /home/csaba/haskell/dsl-experiment/ParseTrifecta.hs, interpreted )
+[1 of 2] Compiling Compositional
+[2 of 2] Compiling ParseTrifecta
 Ok, modules loaded: Compositional, ParseTrifecta.
 *ParseTrifecta> test'
 
