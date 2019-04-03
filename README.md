@@ -27,8 +27,8 @@ stack ghci MilnerMycroft.hs
 
 [1 of 1] Compiling MilnerMycroft
 Ok, modules loaded: MilnerMycroft.
-*MilnerMycroft> test
 
+*MilnerMycroft> test
 ```
 
 
@@ -40,6 +40,6 @@ stack ghci ParseTrifecta.hs
 [1 of 2] Compiling Compositional
 [2 of 2] Compiling ParseTrifecta
 Ok, modules loaded: Compositional, ParseTrifecta.
-*ParseTrifecta> test'
 
+*ParseTrifecta> test'
 ```
