@@ -1,0 +1,8 @@
+resolver: lts-6.35
+
+packages:
+  - '.'
+
+extra-deps:
+  - indentation-0.2.1.2
+
